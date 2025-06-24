@@ -24,3 +24,13 @@ nestjs-crud-api/
 ├── users.json
 ├── package.json
 ```
+
+🔗 API Endpoints
+
+| Method | Endpoint     | Description       |
+| ------ | ------------ | ----------------- |
+| GET    | `/users`     | Get all users     |
+| GET    | `/users/:id` | Get user by ID    |
+| POST   | `/users`     | Create a new user |
+| PUT    | `/users/:id` | Update a user     |
+| DELETE | `/users/:id` | Delete a user     |
