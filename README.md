@@ -25,7 +25,7 @@ nestjs-crud-api/
 ├── package.json
 ```
 
-🔗 API Endpoints
+## 🔗 API Endpoints
 
 | Method | Endpoint     | Description       |
 | ------ | ------------ | ----------------- |
