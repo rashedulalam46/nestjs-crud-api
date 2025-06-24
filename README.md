@@ -12,6 +12,28 @@ A simple RESTful API built using [NestJS](https://nestjs.com/) with support for 
 
 ---
 
+## ⬇️ Clone the Repository
+
+Open your terminal and run the following command:
+
+```bash
+git clone https://github.com/rashedulalam46/nestjs-crud-api.git
+cd nestjs-crud-api
+npm install
+```
+
+## ▶️ Run the Project
+
+Open your terminal and run the following command:
+
+```bash
+node app.js
+```
+
+## The API will be running at:
+📍 http://localhost:3000/api/users
+
+
 ## 📦 Folder Structure
 ```bash
 nestjs-crud-api/
